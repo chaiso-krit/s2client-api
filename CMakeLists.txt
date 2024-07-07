@@ -99,7 +99,7 @@ add_subdirectory("contrib/civetweb")
 target_compile_options(civetweb-c-library PUBLIC -DUSE_IPV6=1)
 
 # Run protobufs cmake.
-add_subdirectory("contrib/protobuf/cmake")
+add_subdirectory("contrib/protobuf")
 
 # Run ipv6-parse cmake.
 add_subdirectory("contrib/ipv6-parse")
