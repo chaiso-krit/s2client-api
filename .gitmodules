@@ -3,7 +3,7 @@
 	url = https://github.com/Blizzard/civetweb
 [submodule "contrib/protobuf"]
 	path = contrib/protobuf
-	url = https://github.com/google/protobuf
+	url = https://github.com/protocolbuffers/protobuf
 [submodule "contrib/SDL-mirror"]
 	path = contrib/SDL-mirror
 	url = https://github.com/spurious/SDL-mirror
